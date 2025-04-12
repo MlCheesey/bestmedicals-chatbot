@@ -1,0 +1,20 @@
+[
+    {
+        "name": "ibuprofen",
+        "price": 15,
+        "available": true,
+        "stock": 42
+    },
+    {
+        "name": "paracetamol",
+        "price": 10, 
+        "available": true,
+        "stock": 25
+    },
+    {
+        "name": "dolo-650",
+        "price": 20,
+        "available": false,
+        "stock": 0
+    }
+]
